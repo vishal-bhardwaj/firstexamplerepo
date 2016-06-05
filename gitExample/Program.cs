@@ -11,6 +11,7 @@ namespace gitExample
         static void Main(string[] args)
         {
             //first comment
+            //New Branch1 changes
         }
     }
 }
