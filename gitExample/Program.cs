@@ -10,6 +10,7 @@ namespace gitExample
     {
         static void Main(string[] args)
         {
+            //first comment
         }
     }
 }
